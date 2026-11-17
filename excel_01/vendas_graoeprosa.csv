@@ -1,0 +1,51 @@
+﻿Data;Loja;Produto;Categoria;Quantidade;Preco_Unitario;Desconto;Valor_Total
+02/11/2026;Centro;Café Coado;Bebida Quente;34;5,00;0,05;161,50
+02/11/2026;Centro;Sanduíche Natural;Salgado;38;16,00;0,00;608,00
+02/11/2026;Centro;Pão de Queijo;Salgado;58;7,00;0,10;365,40
+02/11/2026;Jardins;Brownie;Doce;41;10,00;0,00;410,00
+02/11/2026;Jardins;Café Coado;Bebida Quente;58;5,00;0,00;290,00
+02/11/2026;Jardins;Suco de Laranja;Bebida Fria;8;8,50;0,05;64,60
+03/11/2026;Centro;Sanduíche Natural;Salgado;58;16,00;0,00;928,00
+03/11/2026;Centro;Cappuccino;Bebida Quente;22;9,00;0,00;198,00
+03/11/2026;Centro;Bolo de Cenoura;Doce;35;9,50;0,10;299,25
+03/11/2026;Jardins;Bolo de Cenoura;Doce;42;9,50;0,10;359,10
+03/11/2026;Jardins;Espresso;Bebida Quente;52;6,50;0,00;338,00
+03/11/2026;Jardins;Café Coado;Bebida Quente;49;5,00;0,05;232,75
+04/11/2026;Centro;Espresso;Bebida Quente;60;6,50;0,00;390,00
+04/11/2026;Centro;Café Coado;Bebida Quente;15;5,00;0,00;75,00
+04/11/2026;Centro;Pão de Queijo;Salgado;37;7,00;0,00;259,00
+04/11/2026;Jardins;Brownie;Doce;39;10,00;0,00;390,00
+04/11/2026;Jardins;Pão de Queijo;Salgado;19;7,00;0,00;133,00
+04/11/2026;Jardins;Cold Brew;Bebida Fria;38;11,00;0,00;418,00
+05/11/2026;Centro;Cappuccino;Bebida Quente;51;9,00;0,00;459,00
+05/11/2026;Centro;Cold Brew;Bebida Fria;15;11,00;0,10;148,50
+05/11/2026;Centro;Brownie;Doce;43;10,00;0,10;387,00
+05/11/2026;Jardins;Cold Brew;Bebida Fria;42;11,00;0,10;415,80
+05/11/2026;Jardins;Pão de Queijo;Salgado;26;7,00;0,05;172,90
+05/11/2026;Jardins;Cappuccino;Bebida Quente;36;9,00;0,10;291,60
+06/11/2026;Centro;Pão de Queijo;Salgado;25;7,00;0,00;175,00
+06/11/2026;Centro;Bolo de Cenoura;Doce;13;9,50;0,00;123,50
+06/11/2026;Centro;Cold Brew;Bebida Fria;53;11,00;0,10;524,70
+06/11/2026;Jardins;Espresso;Bebida Quente;43;6,50;0,00;279,50
+06/11/2026;Jardins;Bolo de Cenoura;Doce;44;9,50;0,05;397,10
+06/11/2026;Jardins;Brownie;Doce;43;10,00;0,00;430,00
+07/11/2026;Centro;Café Coado;Bebida Quente;30;5,00;0,05;142,50
+07/11/2026;Centro;Brownie;Doce;30;10,00;0,05;285,00
+07/11/2026;Centro;Pão de Queijo;Salgado;23;7,00;0,00;161,00
+07/11/2026;Jardins;Café Coado;Bebida Quente;19;5,00;0,10;85,50
+07/11/2026;Jardins;Cappuccino;Bebida Quente;31;9,00;0,00;279,00
+07/11/2026;Jardins;Sanduíche Natural;Salgado;51;16,00;0,00;816,00
+08/11/2026;Centro;Brownie;Doce;18;10,00;0,00;180,00
+08/11/2026;Centro;Cold Brew;Bebida Fria;30;11,00;0,10;297,00
+08/11/2026;Centro;Bolo de Cenoura;Doce;40;9,50;0,10;342,00
+08/11/2026;Jardins;Cold Brew;Bebida Fria;43;11,00;0,00;473,00
+08/11/2026;Jardins;Brownie;Doce;36;10,00;0,10;324,00
+08/11/2026;Jardins;Cappuccino;Bebida Quente;57;9,00;0,10;461,70
+09/11/2026;Centro;Espresso;Bebida Quente;24;6,50;0,05;148,20
+09/11/2026;Centro;Suco de Laranja;Bebida Fria;10;8,50;0,10;76,50
+09/11/2026;Centro;Brownie;Doce;23;10,00;0,00;230,00
+09/11/2026;Jardins;Sanduíche Natural;Salgado;29;16,00;0,00;464,00
+09/11/2026;Jardins;Cappuccino;Bebida Quente;17;9,00;0,10;137,70
+09/11/2026;Jardins;Brownie;Doce;11;10,00;0,05;104,50
+09/11/2026;Centro;TESTE;Teste;1;0,00;0,00;0,00
+09/11/2026;Jardins;TESTE;Teste;1;0,00;0,00;0,00
